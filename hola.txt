@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 Que mas mijitas
+=======
+swadsdssd
+>>>>>>> f155ba129f6a2a1a3b6b1ede88c4c3354a2de443
