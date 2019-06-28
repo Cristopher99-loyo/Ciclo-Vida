@@ -1,1 +1,9 @@
+<<<<<<< HEAD
 tomems
+=======
+<<<<<<< HEAD
+Que mas mijitas
+=======
+swadsdssd
+>>>>>>> f155ba129f6a2a1a3b6b1ede88c4c3354a2de443
+>>>>>>> 61fac4b3f54f075ccdc859f0c357ff0a58072bfe
